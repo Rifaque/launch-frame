@@ -1,0 +1,16 @@
+{
+  "name": "launch-frame",
+  "owner": {
+    "name": "RSX Develops"
+  },
+  "metadata": {
+    "description": "LaunchFrame: app store screenshot design, validation and release handoff skill."
+  },
+  "plugins": [
+    {
+      "name": "launch-frame",
+      "source": "./",
+      "description": "App store screenshot and release asset production from an app's real UI, with store-spec validation and upload handoff."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "launch-frame",
+  "version": "2.0.0",
+  "description": "Discovers what an app supports, captures its real UI from emulators/simulators, and turns it into validated, brand-matched store screenshots with upload handoff.",
+  "author": {
+    "name": "RSX Develops"
+  },
+  "repository": "https://github.com/Rifaque/launch-frame"
+}

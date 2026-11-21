@@ -1,0 +1,7 @@
+# Required by every LaunchFrame script
+Pillow>=9.2
+
+# Optional: preferred HTML renderer for render_html.py.
+# Without it, render_html.py uses an installed Chrome / Edge / Chromium.
+# After installing, either run `python -m playwright install chromium` or keep Chrome/Edge installed.
+# playwright>=1.40
